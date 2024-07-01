@@ -1,0 +1,67 @@
+Installation of VS Code:
+
+- Visit the official Visual Studio Code website: https://code.visualstudio.com/
+- Click on the "Download for Windows" button.
+- Once the download is complete, run the installer.
+- Follow the setup wizard instructions. Ensure to check the options to add VS Code to your PATH and to create a desktop icon.
+- Click "Install" to begin the installation process.
+- After the installation is complete, launch VS Code.
+
+First-time Setup:
+
+- Adjust settings for a preferred theme by navigating to File > Preferences > Color Theme.
+- Configure the font size and family in File > Preferences > Settings, then search for "Font Size" and "Font Family".
+- Install essential extensions for your development needs from the Extensions view (Ctrl+Shift+X).
+- Set up code formatting rules and auto-save settings for a smoother coding experience.
+
+User Interface Overview:
+
+- Activity Bar: Located on the far left, it allows you to switch between different views like Explorer, Search, Source Control, and Extensions.
+- Side Bar: Displays the contents of the view selected in the Activity Bar, such as the file explorer or search results.
+- Editor Group: The central area where you write and edit your code. You can split this into multiple editor groups for side-by-side editing.
+- Status Bar: Located at the bottom, it shows information about the current project, such as errors, warnings, and the current Git branch.
+
+Command Palette:
+
+- The Command Palette can be accessed by pressing Ctrl+Shift+P (or F1).
+- It provides a quick way to access and execute commands.
+- Common tasks include changing the color theme, opening settings, and running debugging tasks.
+
+Extensions in VS Code:
+
+- Extensions enhance the functionality of VS Code, such as language support, themes, and tools.
+- Find extensions in the Extensions view (Ctrl+Shift+X).
+- Install extensions by clicking the Install button next to the desired extension.
+- Manage installed extensions from the same Extensions view.
+- Essential extensions for web development include Prettier, ESLint, and Live Server.
+
+Integrated Terminal:
+
+- Open the integrated terminal with Ctrl+` (backtick).
+- It provides a built-in terminal interface for running command-line tasks without leaving VS Code.
+- Advantages include quick access, multiple terminal support, and integration with the editor.
+
+File and Folder Management:
+
+- Create new files or folders using the file explorer in the Side Bar or with right-click context menus.
+- Open files by double-clicking them in the explorer or using Ctrl+P to quickly find and open files.
+- Efficiently navigate between files using the Explorer, the Open Editors pane, or keyboard shortcuts like Ctrl+Tab.
+
+Settings and Preferences:
+
+- Access settings from File > Preferences > Settings or by pressing Ctrl+,
+- Customize themes in the Color Theme section.
+- Adjust font size by searching for "Font Size" in the settings.
+- Modify keybindings in File > Preferences > Keyboard Shortcuts or by pressing Ctrl+K Ctrl+S.
+
+Debugging in VS Code:
+
+- Set up debugging by configuring a launch.json file in the .vscode folder.
+- Start debugging by selecting the Run and Debug view from the Activity Bar or pressing F5.
+- Key debugging features include breakpoints, variable inspection, and call stack navigation.
+
+Using Source Control:
+
+- Integrate Git by initializing a repository from the Source Control view in the Activity Bar.
+- Make commits by staging changes and committing them within the Source Control view.
+- Push changes to GitHub by connecting your repository and using the push command.
